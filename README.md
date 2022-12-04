@@ -1,2 +1,2 @@
 
-![Metrics](*/github-metrics.svg)
+![Metrics](.github/workflow/github-metrics.svg)
